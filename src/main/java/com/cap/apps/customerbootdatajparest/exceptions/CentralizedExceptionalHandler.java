@@ -1,4 +1,4 @@
-package com.cap.apps.customerbootjparest.exceptions;
+package com.cap.apps.customerbootdatajparest.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;

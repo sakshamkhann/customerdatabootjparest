@@ -1,4 +1,4 @@
-package com.cap.apps.customerbootjparest.exceptions;
+package com.cap.apps.customerbootdatajparest.exceptions;
 
 public class CustomerIdException extends RuntimeException {
     public CustomerIdException(String message) {

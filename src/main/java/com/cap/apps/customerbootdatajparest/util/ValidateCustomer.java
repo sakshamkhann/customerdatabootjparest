@@ -1,9 +1,9 @@
-package com.cap.apps.customerbootjparest.util;
+package com.cap.apps.customerbootdatajparest.util;
 
-import com.cap.apps.customerbootjparest.entities.Customer;
-import com.cap.apps.customerbootjparest.exceptions.CustomerIdException;
-import com.cap.apps.customerbootjparest.exceptions.CustomerNameException;
-import com.cap.apps.customerbootjparest.exceptions.CustomerNotExistException;
+import com.cap.apps.customerbootdatajparest.entities.Customer;
+import com.cap.apps.customerbootdatajparest.exceptions.CustomerIdException;
+import com.cap.apps.customerbootdatajparest.exceptions.CustomerNameException;
+import com.cap.apps.customerbootdatajparest.exceptions.CustomerNotExistException;
 
 public class ValidateCustomer {
     public static void  checkName(String name){
